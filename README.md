@@ -54,12 +54,12 @@ No known issues.
 5. Build and installation instructions
 -------------------------------------------------------------------------------
 The example has been created with NetBeans 7.3 and Nokia Asha SDK 1.0.
-The project can be easily opened in NetBeans by selecting 'Open Project' 
+The project can be easily opened in NetBeans by selecting **Open Project** 
 from the File menu and selecting the application. 
 
 Before opening the project, make sure the Series 40 6th Edition, FP1 SDK or newer is 
-installed and added to NetBeans. Building is done by selecting 'Build main 
-project'.
+installed and added to NetBeans. Building is done by selecting **Build main 
+project**.
 
 Installing the application on a phone can be done by transfering the JAR file 
 via Nokia Suite or via Bluetooth.
