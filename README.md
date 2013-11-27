@@ -105,6 +105,6 @@ Developed with:
 
 8. Version history
 -------------------------------------------------------------------------------
-* 1.2.0 Ported to Nokia Asha devices.
-* 1.1.0 Code cleanup and new icons. Tested with Series 40 full touch devices.
-* 1.0.0 First release
+* 1.2 Ported to Nokia Asha devices.
+* 1.1 Code cleanup and new icons. Tested with Series 40 full touch devices.
+* 1.0 First release

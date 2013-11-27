@@ -1,0 +1,11 @@
+MIDlet-1: Sudokumaster,/appicon.png,com.nokia.example.sudokumaster.Main
+MIDlet-Data-Size: 176
+MIDlet-Jar-Size: 112774
+MIDlet-Jar-URL: Sudokumaster_v1_2.jar
+MIDlet-Name: Sudokumaster
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.2
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Nokia-MIDlet-On-Screen-Keypad: no
+Nokia-Scalable-Icon-MIDlet-1: /appicon.svg
